@@ -13,7 +13,7 @@ Advent of Code: A fantastic set of programming puzzles that help improve coding 
 ## Progress :star2:
 | Day | Result|
 | - | - |
-| 01 |  |
+| 01 | :star2::star2: |
 | 02 |  |
 | 03 |  |
 | 04 |  |
