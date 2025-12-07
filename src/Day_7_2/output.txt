@@ -1,0 +1,17 @@
+DP Result: 1167
+Row 0: 1 pipes
+Row 1: 1 pipes
+Row 2: 2 pipes
+Row 3: 2 pipes
+Row 4: 3 pipes
+Row 5: 3 pipes
+Row 6: 4 pipes
+Row 7: 4 pipes
+Row 8: 6 pipes
+Row 9: 6 pipes
+Row 10: 7 pipes
+Row 11: 7 pipes
+Row 12: 9 pipes
+Row 13: 9 pipes
+Row 14: 9 pipes
+Row 15: 9 pipes
