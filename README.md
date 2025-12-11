@@ -14,14 +14,14 @@ Advent of Code: A fantastic set of programming puzzles that help improve coding 
 | Day | Result|
 | - | - |
 | 01 | :star2::star2: |
-| 02 |  |
-| 03 |  |
-| 04 |  |
-| 05 |  |
-| 06 |  |
-| 07 |  |
-| 08 |  |
-| 09 |  |
-| 10 |  |
-| 11 |  |
+| 02 | :star2::star2: |
+| 03 | :star2::star2: |
+| 04 | :star2::star2: |
+| 05 | :star2::star2: |
+| 06 | :star2::star2: |
+| 07 | :star2::star2: |
+| 08 | :star2::star2: |
+| 09 | :star2::star2: |
+| 10 | :star2::star2: |
+| 11 | :star2::star2: |
 | 12 |  |
