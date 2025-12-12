@@ -24,4 +24,4 @@ Advent of Code: A fantastic set of programming puzzles that help improve coding 
 | 09 | :star2::star2: |
 | 10 | :star2::star2: |
 | 11 | :star2::star2: |
-| 12 |  |
+| 12 | :star2::star2: |
